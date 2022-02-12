@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ <b> Hi {} , I'm I ❤ MOVIES File renamer. - I can help you to rename your files I also  help you to convert your file into video with permanent thumbnail support . </b> \n
+    START_TEXT = """ <b> Hi {} , I'm I ❤ Gbmax renamer. - I can help you to rename your files I also  help you to convert your file into video with permanent thumbnail support . </b> \n
 
 <b>Bot Maintained By: I ❤ MOVIES Owner </b> \n 
 <b> I can also download & upload files from Zee5</b> \n
@@ -7,16 +7,16 @@ class Translation(object):
 """
 
     RENAME_403_ERR = "What Are You Doing? Fool!!"
-    BANNED_USER_TEXT = "Sorry!! But My Owner has Banned You From Using This Service. That Means You Can't Run Me Now! \n \n Contact : @I4Movies_Office8372_Bot For more Details.. " 
+    BANNED_USER_TEXT = "Sorry!! But My Owner has Banned You From Using This Service. That Means You Can't Run Me Now! \n \n Contact : @jetbots For more Details.. " 
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "CONTACT @I4Movies_Office8372_Bot "
+    UPGRADE_TEXT = "CONTACT @jetbots "
     DOWNLOAD_START = "<b>Downloading To My server !! pls Wait</b>"
     UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TG</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me Support Our Channel I ❤ MOVIES</b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me Support Our Channel I ❤ Jetbots</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT @I4Movies_Office8372_Bot "
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @I4Movies_Office8372_Bot "
+    NOT_AUTH_USER_TEXT = "CONTACT @jetbots "
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @jetbots "
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /delthumb ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
@@ -35,5 +35,5 @@ class Translation(object):
 2.🔹 <b>Reply to that message with /rename New file name.extnsion</b> \n
 3.🔹 <b> Send A Photo to make it as permanent Thumbnail</b> \n
 4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n
-5.🔹 <b> Send Me Any Zee5 Url And I'll Upload It Into Telegram </b> \n \n <b>Made With Love By: I ❤ MOVIES</b>"""
+5.🔹 <b> Send Me Any Zee5 Url And I'll Upload It Into Telegram </b> \n \n <b>Made With Love By: I ❤ Jetbots</b>"""
 
